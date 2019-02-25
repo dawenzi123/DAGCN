@@ -1,0 +1,3 @@
+2019-01-17 17:03:16.986956	Namespace(batch_size=50, data='DD', dropout=0.5, feat_dim=82, fold=1, gm='attention', hidden=64, latent_dim=64, learning_rate=0.0001, logDes='default', logDir='./log/DD_Trail23.txt', max_block=10, max_k=10, max_lv=1, mode=0, multi_h_emb_weight=32, name='DD_Trail23.pk', num_class=2, num_epochs=500, out_dim=0, reg=2, seed=1)
+2019-01-17 17:03:16.986993	default
+2019-01-17 17:03:41.738207	Epoch: 000, Train Loss: 1.2415271, Train Acc: 0.5657143, Test Acc: 0.5811966
