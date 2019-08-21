@@ -32,7 +32,7 @@ Alternatively, type
 
 to use the last 200 graphs in the dataset as testing graphs. The fold number 1 will be ignored.
 
-Check "run_DGCNN.sh" for more options.
+Check "run_DACNN.sh" for more options.
 
 Datasets
 --------
