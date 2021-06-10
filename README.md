@@ -18,7 +18,7 @@ This implementation is based on Hanjun Dai's structure2vec graph backend. Under 
 
 to compile the necessary c++ files.
 
-Or type 
+Type 
 
     ./run_DAGCN.sh DATANAME FOLD
 
